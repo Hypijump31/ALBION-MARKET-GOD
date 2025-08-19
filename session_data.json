@@ -1,0 +1,30 @@
+{
+  "current_page": {
+    "value": "Refining Analysis",
+    "timestamp": "2025-08-19T00:34:07.270596"
+  },
+  "selected_resource_type": {
+    "value": "WOOD",
+    "timestamp": "2025-08-18T20:07:14.458965"
+  },
+  "selected_tier": {
+    "value": "T4",
+    "timestamp": "2025-08-18T20:07:14.464000"
+  },
+  "selected_city": {
+    "value": "Fort Sterling",
+    "timestamp": "2025-08-19T00:34:07.289070"
+  },
+  "confirm_api": {
+    "value": true,
+    "timestamp": "2025-08-19T00:34:07.296413"
+  },
+  "quantity": {
+    "value": 5000,
+    "timestamp": "2025-08-19T00:34:07.303047"
+  },
+  "specialization": {
+    "value": 0,
+    "timestamp": "2025-08-19T00:28:14.126193"
+  }
+}}
